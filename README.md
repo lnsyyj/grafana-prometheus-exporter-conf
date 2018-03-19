@@ -1,2 +1,3 @@
 # grafana-prometheus-exporter-conf
-granfana
+
+ceph monitoring platform configuration file backup
